@@ -1,3 +1,17 @@
+body {
+	background-color: rgb(30,30,20);
+}
+
+
 p {
-	color: green;
+	color: rgb(200, 30, 129);
+	font-family: script;
+}
+
+h1 {
+	color: darkgreen;
+	font-family: jokerman;
+	padding-left: 100px;
+	border-width: 2px;
+	border-style: solid;
 }
