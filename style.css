@@ -2,16 +2,50 @@ body {
 	background-color: rgb(30,30,20);
 }
 
-
-p {
+p, h3 {
 	color: rgb(200, 30, 129);
 	font-family: script;
 }
 
 h1 {
+	clear: left;
 	color: darkgreen;
 	font-family: jokerman;
 	padding-left: 100px;
 	border-width: 2px;
 	border-style: solid;
 }
+
+nav ul li { 
+	display: inline; 
+}
+
+
+nav  ul{
+	margin-left: 0;
+	padding-left: 0;
+	background-color: purple;
+	float: left;
+	width: 100%;
+}
+
+
+nav ul li a {
+	padding: 5px 10px;
+	background-color: purple;
+	color: yellow;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid red;
+}
+
+nav ul li a:hover {
+	background-color: #369;
+	color: #fff;
+}
+
+
+
+
+
+
