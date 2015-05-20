@@ -52,12 +52,17 @@ img:hover {
 	float: left;
 }
 
-img: {
-	padding-right: 30;
-	border: 
+a:link {
+	color: yellow;
 }
 
+a:hover {
+	background-color: red;
+}
 
+a:active {
+	background-color: green;
+}
 
 
 
