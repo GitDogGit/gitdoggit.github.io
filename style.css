@@ -2,9 +2,13 @@ body {
 	background-color: rgb(30,30,20);
 }
 
+
 p, h3 {
 	color: rgb(200, 30, 129);
-	font-family: script;
+	font-family: "Times New Roman";
+	font-size: 120%;
+	line-height: 1.5;
+	text-align: justify;
 }
 
 h1 {
@@ -43,6 +47,19 @@ nav ul li a:hover {
 	background-color: #369;
 	color: #fff;
 }
+
+img:hover {
+	float: left;
+}
+
+img: {
+	padding-right: 30;
+	border: 
+}
+
+
+
+
 
 
 
