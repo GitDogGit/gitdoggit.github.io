@@ -64,7 +64,9 @@ a:active {
 	background-color: green;
 }
 
-
+p:hover {
+	float: left;
+}
 
 
 
