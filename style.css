@@ -1,14 +1,38 @@
+/*30h0f0knDpGe9-qjlsWr0lfvpgm*/
+
+
 nav ul {
+	margin-top: 50px;
 	float: left;
 	list-style-type: none;
+	width: 120px
 }
 
-
-nav ul li a {
+nav a {
 	text-decoration: none;
+	color: green;
+}
+
+nav li {
+	display: block;
+	padding: 5px 0;
+	background: #FFB18E;
 }
 
 
 #main {
-	margin-left: 120px
+	padding: 0 30px;
+	background-color: #CD6536;
+	margin: 0 120px;
+	border: 3px #FFB18E solid;
+	border-radius: 25px
+}
+
+body {
+	background: #299D3D;
+	
+}
+
+p {
+	color: #FFB18E;
 }
