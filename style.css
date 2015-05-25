@@ -4,20 +4,27 @@
 nav ul {
 	margin: 50px 0;
 	padding-left: 10px;
-	float: left;
+	float: center;
 	list-style-type: none;
 	background: #FFB18E;
-	width: 110px;
 }
 
 nav a {
+	font: italic 12pt;
+	padding: 10px 5px;
+	background: linear-gradient(orange, red);
 	text-decoration: none;
-	color: green;
+	color: blue;
+}
+
+nav a:hover {
+	background: linear-gradient(red, orange);
+	box-shadow: 5px 5px 2px;
+	transition: 1s;
 }
 
 nav li {
-	display: block;
-	padding: 5px 0;
+	display: inline;
 }
 
 
@@ -39,3 +46,14 @@ body {
 p {
 	color: #FFB18E;
 }
+
+img {
+	transition: 1s;
+}
+
+img:hover {
+	transform: scale(1.5) translate(-50px,50px);
+}
+
+
+
