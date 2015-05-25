@@ -35,12 +35,10 @@ nav li {
 	border: 3px #FFB18E solid;
 	border-radius: 25px;
 	min-width: 450px;
-	
 }
 
 body {
 	background: #299D3D;
-	
 }
 
 p {
@@ -56,4 +54,6 @@ img:hover {
 }
 
 
-
+#current {
+	padding: 10px 10px;
+}
