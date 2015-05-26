@@ -1,4 +1,5 @@
-/*http://paletton.com/#uid=52t0o0kevbS9MmWbOh-jQaeoH7t*/
+
+/*---Navigation Bar---*/
 
 nav {
 	min-width: 500px;
@@ -33,10 +34,12 @@ nav a:hover, #current {
 	border-radius: 0 5px 0 0;
 }
 
-
 #navleft {
 	border-radius: 5px 0 0 0;
 }
+
+
+/*---Main Box and Background---*/
 
 #main {
 	clear: left;
@@ -53,6 +56,9 @@ nav a:hover, #current {
 body {
 	background: #18391C;
 }
+
+
+/*---Text of All Sorts---*/
 
 p {
 	color: #D9E1AB;
@@ -93,6 +99,10 @@ h3 {
 	text-decoration: underline;
 }
 
+
+/*---Images---*/
+
 img {
 	margin: 0 25px;
 }
+
