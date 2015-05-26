@@ -79,6 +79,11 @@ h3 {
 	font: 25px candara;
 }
 
+#main li {
+	color: #D9E1AB;
+	font: 20px candara;
+}
+
 #main a {
 	text-decoration: none;
 	color: #92A774;
