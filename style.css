@@ -76,11 +76,13 @@ h1 {
 }
 
 h2 {
+	clear: left;
 	color: #92A774;
 	font: 30px "century gothic";
 }
 
 h3 {
+	clear: left;
 	color: #92A774;
 	font: 25px candara;
 }
