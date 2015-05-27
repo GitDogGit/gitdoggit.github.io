@@ -113,3 +113,7 @@ img {
 	float: left;
 }
 
+.page2 h2, .page2 h3 {
+	margin-top: 20px;
+}
+
